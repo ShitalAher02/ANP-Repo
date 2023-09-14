@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Hello_world {
+module Hello {
 }
